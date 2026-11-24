@@ -10,6 +10,13 @@ namespace AutoKolcsonzes
     {
         static void Main(string[] args)
         {
+
+
+
+
+
+
+
         }
     }
 }

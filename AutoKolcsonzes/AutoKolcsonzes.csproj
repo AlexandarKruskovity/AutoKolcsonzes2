@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="model\Atutalas.cs" />
+    <Compile Include="model\Auto.cs" />
+    <Compile Include="model\Bankkartya.cs" />
+    <Compile Include="model\Fizetes.cs" />
+    <Compile Include="model\Keszpenz.cs" />
+    <Compile Include="model\Kolcsonzes.cs" />
+    <Compile Include="model\KolcsonzesTetel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
